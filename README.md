@@ -1,8 +1,8 @@
 # Alien vs. Zombie
 
-Please introduce the game here.
 
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
+Alien vs Zombie is a game.
+![image](https://user-images.githubusercontent.com/124151047/216071012-393c28b4-8acb-45cb-8fa7-5bb7083e49c2.png)
 
 
 [Video Demo](https://www.youtube.com/watch?v=Clomfu6q9QE).

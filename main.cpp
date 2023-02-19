@@ -679,6 +679,7 @@ void arrow(vector<vector<char>> &map, int row, int col, CharAttr alien, int play
     if (getItem(map, arrow_row, arrow_col) == '^' || getItem(map, arrow_row, arrow_col) == 'v' || getItem(map, arrow_row, arrow_col) == '<' || getItem(map, arrow_row, arrow_col) == '>')
     {
         string command;
+        cout << "Enter a command (alien movement = move, change arrow = arrow , manual book = help ,exit = quit): " << endl;
         cout << "Which direction : ";
         cin >> command;
         if (command == "up")
